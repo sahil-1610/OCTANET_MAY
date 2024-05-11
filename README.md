@@ -1,1 +1,1 @@
-this folder belongs to OCTANET , web dev intership Projects.
+this folder belongs to OCTANET , web dev internship Projects.
