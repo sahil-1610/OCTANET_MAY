@@ -1,1 +1,4 @@
-this folder belongs to OCTANET , web dev internship Projects.
+## OCTANET INTERNSHIP TASK
+
+- 1 LANDING PAGE
+- 2 TODO LIST 
